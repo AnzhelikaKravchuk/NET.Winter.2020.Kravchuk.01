@@ -1,1 +1,1 @@
-# NET.Winter.2020.LastName
+# Solution for Day 2
