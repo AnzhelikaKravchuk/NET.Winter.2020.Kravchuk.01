@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>StringManipulation</name>
+    </assembly>
+    <members>
+        <member name="T:StringManipulation.Greeting">
+            <summary>
+            Greeting class.
+            </summary>
+        </member>
+        <member name="M:StringManipulation.Greeting.SayHello(System.String)">
+            <summary>
+            Method that creates the greeting string.
+            </summary>
+            <param name="userName">Name of user.</param>
+            <returns>Greeting string with user.</returns>
+            <exception cref="T:System.ArgumentNullException">Thrown when the userName is null.</exception>
+            <example> SayHello("John") = "Hello, John!".</example>
+        </member>
+    </members>
+</doc>
